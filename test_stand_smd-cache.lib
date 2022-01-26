@@ -272,11 +272,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# trinket_m0_ATSAMD21E
+# test_stand_smd-rescue_ATSAMD21E-trinket_m0
 #
-DEF trinket_m0_ATSAMD21E U 0 40 Y Y 1 F N
+DEF test_stand_smd-rescue_ATSAMD21E-trinket_m0 U 0 40 Y Y 1 F N
 F0 "U" 50 50 50 H V C CNN
-F1 "trinket_m0_ATSAMD21E" 750 -2900 50 H V C CNN
+F1 "test_stand_smd-rescue_ATSAMD21E-trinket_m0" 750 -2900 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
